@@ -15,3 +15,6 @@
   
 #Código JavaScrpit
 ![JAVASCRPIT](https://user-images.githubusercontent.com/88971985/177319089-be40b1de-dbfc-4248-ba07-f9c8dceb9980.png)
+
+Esse foi um projeto simples mas feito com muita dedicação por mim ♡( ◡‿◡ )
+Te convido a ver meu linkedin ^^ : https://www.linkedin.com/in/caio-aguiar-04b015193/
