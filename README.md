@@ -8,12 +8,12 @@
 ![thresh](https://user-images.githubusercontent.com/88971985/177318880-94779450-0410-45e9-b8c8-36d47e77951c.gif)
 
 
-.Tecnologias
+# Tecnologias
   -HTML
   -CSS
   -JavaScript
   
-#Código JavaScrpit
+# Código JavaScrpit
 ![JAVASCRPIT](https://user-images.githubusercontent.com/88971985/177319089-be40b1de-dbfc-4248-ba07-f9c8dceb9980.png)
 
 Esse foi um projeto simples mas feito com muita dedicação por mim ♡( ◡‿◡ )
